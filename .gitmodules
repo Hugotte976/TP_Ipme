@@ -1,0 +1,3 @@
+[submodule "lib/libDate"]
+	path = lib/libDate
+	url = https://github.com/Hugotte976/libDate.git
